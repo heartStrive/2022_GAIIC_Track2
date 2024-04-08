@@ -1,0 +1,318 @@
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+INFO:transformers1.file_utils:PyTorch version 1.8.1+cu111 available.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /bert-base-chinesespiece.model/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /bert-base-chinesespiece.model/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /bert-base-chinese%5Cspiece.model/resolve/main/tokenizer_config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /bert-base-chineseconfig.json/resolve/main/config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /models/config.json/resolve/main/config.json HTTP/1.1" 404 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /pretrained_bert/config.json/resolve/main/config.json HTTP/1.1" 404 0
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.688 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.689 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.690 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.685 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.689 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.688 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.697 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.698 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.817 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.701 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.687 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.685 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.690 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.690 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.692 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.689 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.689 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.690 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.690 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.698 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.688 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.690 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.706 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.698 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.694 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.694 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.697 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.701 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.700 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.705 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.695 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.691 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.693 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.695 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.693 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.695 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.706 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.686 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.683 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.688 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.682 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.687 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.688 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.684 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.686 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.683 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.691 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.686 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.692 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.758 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.699 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.697 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.701 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.704 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.697 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.683 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.703 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.699 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.706 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.701 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.704 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.695 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.698 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.697 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.655 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.677 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.661 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.734 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.662 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.699 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.698 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.715 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.695 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.
+DEBUG:jieba:Building prefix dict from the default dictionary ...
+DEBUG:jieba:Loading model from cache /tmp/jieba.cache
+DEBUG:jieba:Loading model cost 0.708 seconds.
+DEBUG:jieba:Prefix dict has been built successfully.

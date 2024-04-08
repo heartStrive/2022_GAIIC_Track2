@@ -1,0 +1,1 @@
+pip install -r requirements.txt # 安装所有依赖库
